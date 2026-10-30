@@ -1,3 +1,4 @@
 SHELL=/bin/bash
 HOME=/home/saraajmal30
+DB_USER=labuser
 USER=saraajmal30
